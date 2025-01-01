@@ -15,7 +15,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://quill-leeward-crafter.glitch.me";
+var hostURL="https://symmetrical-chainsaw-wwrjg7jq9w73gw56-5000.app.github.dev/";
 //TOGGLE for Shorters
 var use1pt=false;
 
